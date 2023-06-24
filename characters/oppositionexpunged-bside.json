@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				130,
+				335
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "op left"
+		},
+		{
+			"offsets": [
+				357,
+				435
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "op right"
+		},
+		{
+			"offsets": [
+				250,
+				371
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "op down"
+		},
+		{
+			"offsets": [
+				202,
+				255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "op up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				340
+			],
+			"anim": "idle",
+			"fps": 69,
+			"name": "op idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/op",
+	"position": [
+		-680,
+		-150
+	],
+	"healthicon": "oppo",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-200,
+		-320
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
