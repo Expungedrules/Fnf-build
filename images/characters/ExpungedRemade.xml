@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ExpungedRemade.png">
+<SubTexture name="ExpungedRemade Down0000" x="2133" y="3083" width="744" height="693" frameX="-11" frameY="-243" frameWidth="835" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Down0001" x="1414" y="3083" width="719" height="720" frameX="-17" frameY="-209" frameWidth="835" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Down0002" x="721" y="3083" width="693" height="770" frameX="-29" frameY="-144" frameWidth="835" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Down0003" x="0" y="3083" width="721" height="794" frameX="-10" frameY="-100" frameWidth="835" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Idle0000" x="592" y="1052" width="651" height="1019" frameX="0" frameY="-44" frameWidth="651" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Idle0001" x="0" y="1052" width="592" height="1031" frameX="-53" frameY="-65" frameWidth="651" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Idle0002" x="792" y="0" width="537" height="1036" frameX="-65" frameY="-78" frameWidth="651" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Idle0003" x="1329" y="0" width="500" height="1036" frameX="-79" frameY="-99" frameWidth="651" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Left0000" x="1805" y="2083" width="785" height="936" frameX="-15" frameY="-186" frameWidth="815" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Left0001" x="2644" y="1007" width="781" height="986" frameX="-33" frameY="-164" frameWidth="815" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Left0002" x="1829" y="0" width="815" height="1035" frameX="0" frameY="-145" frameWidth="815" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Left0003" x="0" y="0" width="792" height="1052" frameX="-8" frameY="-126" frameWidth="815" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Right0000" x="876" y="2083" width="929" height="990" frameX="-10" frameY="-105" frameWidth="957" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Right0001" x="0" y="2083" width="876" height="1000" frameX="-37" frameY="-105" frameWidth="957" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Right0002" x="2644" y="0" width="832" height="1007" frameX="-57" frameY="-104" frameWidth="957" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Right0003" x="1243" y="1052" width="769" height="1014" frameX="-88" frameY="-104" frameWidth="957" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Up0000" x="3476" y="826" width="520" height="821" frameX="-56" frameY="-48" frameWidth="651" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Up0001" x="3476" y="0" width="521" height="826" frameX="-54" frameY="-65" frameWidth="651" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Up0002" x="2012" y="1052" width="527" height="925" frameX="-52" frameY="-50" frameWidth="651" frameHeight="1210" />
+<SubTexture name="ExpungedRemade Up0003" x="2590" y="2083" width="532" height="922" frameX="-46" frameY="-50" frameWidth="651" frameHeight="1210" />
+</TextureAtlas>
