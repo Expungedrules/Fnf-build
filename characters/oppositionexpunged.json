@@ -1,68 +1,68 @@
 {
 	"animations": [
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
-				40,
-				140
+				-75,
+				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "OppoExpungedIdle",
+			"name": "oppo-real idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-291,
-				75
+				44,
+				-12
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "OppoExpungedLeft",
+			"name": "oppo-real left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-183,
-				-135
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "OppoExpungedRight",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-300,
-				-198
+				-50,
+				40
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "OppoExpungedDown",
+			"name": "oppo-real down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-259,
-				-105
+				-75,
+				105
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "OppoExpungedUp",
+			"name": "oppo-real up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				55
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "oppo-real right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/OppositonExpunged",
+	"image": "characters/oppo-real",
 	"position": [
-		-260,
-		80
+		-1100,
+		-330
 	],
-	"healthicon": "OppoExpunged",
+	"healthicon": "opposition",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
@@ -70,9 +70,9 @@
 		255
 	],
 	"camera_position": [
-		-110,
-		0
+		0,
+		-30
 	],
-	"sing_duration": 4,
-	"scale": 1.8
+	"sing_duration": 6.1,
+	"scale": 1
 }
